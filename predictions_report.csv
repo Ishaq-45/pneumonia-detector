@@ -1,11 +1,4 @@
 image_name,prediction,confidence_percent,timestamp
-result1.jpg,Pneumonia,85.64,2025-06-16 17:56:26
-result2.jpg,Normal,89.25,2025-06-16 17:56:27
-result_1.png,Pneumonia,100.00,2025-06-16 17:56:27
-result_2.png,Pneumonia,100.00,2025-06-16 17:56:27
-result_3.png,Normal,100.00,2025-06-16 17:56:27
-result_4.png,Normal,100.00,2025-06-16 17:56:28
-result_5.png,Normal,100.00,2025-06-16 17:56:28
-result_6.png,Normal,100.00,2025-06-16 17:56:28
-result_7.png,Normal,100.00,2025-06-16 17:56:28
-sample.jpg,Normal,69.26,2025-06-16 17:56:28
+result_10.png,Pneumonia,54.76,2025-06-17 12:30:02
+result_8.png,Normal,100.00,2025-06-17 12:30:02
+result_9.png,Normal,99.99,2025-06-17 12:30:03
